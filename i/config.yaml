@@ -1,0 +1,2 @@
+model_path: ml/model.pkl
+prediction_threshold: 0.7
